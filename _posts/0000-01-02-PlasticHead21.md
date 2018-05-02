@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-*Woah!!!* **Thats pretty**'<Console.WriteLine("Cool");>'
+*Woah!!!* **Thats something new**
 Use the left arrow to go back!
